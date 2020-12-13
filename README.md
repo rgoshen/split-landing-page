@@ -1,2 +1,2 @@
 # split-landing-page
-Scroll animation effect project using HTML, CSS and JS.
+Split landing page effect project using HTML, CSS and JS.
